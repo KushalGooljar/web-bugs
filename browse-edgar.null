@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>MINNEAPOLIS</city>
+          <state>MN</state>
+          <street1>3300 IDS CENTER</street1>
+          <street2>80 S. 8TH STREET</street2>
+          <zip>55402</zip>
+        </address>
+        <address type="business">
+          <city>MINNEAPOLIS</city>
+          <phone>612-332-3223</phone>
+          <state>MN</state>
+          <street1>3300 IDS CENTER</street1>
+          <street2>80 S. 8TH STREET</street2>
+          <zip>55402</zip>
+        </address>
+      </addresses>
+      <cik>0000914911</cik>
+      <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000914911&amp;owner=exclude&amp;count=40</cik-href>
+      <conformed-name>SIA SECURITIES CORP.</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="1">
+        <names>
+          <date>2002-03-05</date>
+          <name>SIA SECURITIES CORP                                     /BD</name>
+        </names>
+      </formerly-names>
+      <state-location>MN</state-location>
+      <state-location-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=MN&amp;owner=exclude&amp;count=40</state-location-href>
+      <state-of-incorporation>MN</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>0000914911-17-000002</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-27</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/000091491117000002/0000914911-17-000002-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>17641710</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>2 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000914911-17-000002</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/000091491117000002/0000914911-17-000002-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-27 &lt;b&gt;AccNo:&lt;/b&gt; 0000914911-17-000002 &lt;b&gt;Size:&lt;/b&gt; 2 MB</summary>
+      <title>X-17A-5  - FOCUS Report</title>
+      <updated>2017-02-27T16:07:19-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>0000914911-16-000002</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-02-29</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/000091491116000002/0000914911-16-000002-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>161469649</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>103 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000914911-16-000002</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/000091491116000002/0000914911-16-000002-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-02-29 &lt;b&gt;AccNo:&lt;/b&gt; 0000914911-16-000002 &lt;b&gt;Size:&lt;/b&gt; 103 KB</summary>
+      <title>X-17A-5  - FOCUS Report</title>
+      <updated>2016-02-29T17:23:13-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-15-002797</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-03-02</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999715002797/9999999997-15-002797-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>15048134</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-15-002797</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999715002797/9999999997-15-002797-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 15048134  &lt;b&gt;Filed:&lt;/b&gt; 2015-03-02 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-15-002797 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2015-03-10T09:06:14-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-14-007289</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2014-02-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999714007289/9999999997-14-007289-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>14045913</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-14-007289</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999714007289/9999999997-14-007289-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 14045913  &lt;b&gt;Filed:&lt;/b&gt; 2014-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-14-007289 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2014-04-12T09:00:52-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-14-007288</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2014-02-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999714007288/9999999997-14-007288-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>14040348</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-14-007288</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999714007288/9999999997-14-007288-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 14040348  &lt;b&gt;Filed:&lt;/b&gt; 2014-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-14-007288 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2014-04-12T09:00:05-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-13-001257</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2013-02-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999713001257/9999999997-13-001257-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>13011757</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-13-001257</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999713001257/9999999997-13-001257-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 13011757  &lt;b&gt;Filed:&lt;/b&gt; 2013-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-13-001257 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2013-02-27T14:36:09-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-12-001435</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2012-02-22</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999712001435/9999999997-12-001435-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>12011055</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-12-001435</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999712001435/9999999997-12-001435-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 12011055  &lt;b&gt;Filed:&lt;/b&gt; 2012-02-22 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-12-001435 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2012-02-24T16:28:31-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-12-001331</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2012-02-22</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999712001331/9999999997-12-001331-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>12010892</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-12-001331</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999712001331/9999999997-12-001331-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 12010892  &lt;b&gt;Filed:&lt;/b&gt; 2012-02-22 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-12-001331 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2012-02-24T11:58:59-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-11-006773</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2011-02-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999711006773/9999999997-11-006773-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>11015301</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-11-006773</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999711006773/9999999997-11-006773-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 11015301  &lt;b&gt;Filed:&lt;/b&gt; 2011-02-18 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-11-006773 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2011-03-31T09:51:49-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-11-002903</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2011-02-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999711002903/9999999997-11-002903-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>11015300</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-11-002903</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999711002903/9999999997-11-002903-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 11015300  &lt;b&gt;Filed:&lt;/b&gt; 2011-02-18 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-11-002903 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2011-03-09T18:41:28-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-10-001041</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2010-01-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999710001041/9999999997-10-001041-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>10035020</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-10-001041</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999710001041/9999999997-10-001041-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 10035020  &lt;b&gt;Filed:&lt;/b&gt; 2010-01-28 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-10-001041 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2010-02-16T17:22:22-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-10-001031</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2010-01-26</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999710001031/9999999997-10-001031-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>10035021</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-10-001031</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999710001031/9999999997-10-001031-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 10035021  &lt;b&gt;Filed:&lt;/b&gt; 2010-01-26 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-10-001031 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2010-02-16T16:39:23-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-09-009837</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2009-02-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999709009837/9999999997-09-009837-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>09055395</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-09-009837</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999709009837/9999999997-09-009837-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 09055395  &lt;b&gt;Filed:&lt;/b&gt; 2009-02-19 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-09-009837 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2009-03-22T09:19:42-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-09-005175</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2009-02-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999709005175/9999999997-09-005175-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>09055396</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-09-005175</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999709005175/9999999997-09-005175-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 09055396  &lt;b&gt;Filed:&lt;/b&gt; 2009-02-19 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-09-005175 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2009-03-03T09:29:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-08-026222</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2008-04-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999708026222/9999999997-08-026222-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>08028292</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-08-026222</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999708026222/9999999997-08-026222-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 08028292  &lt;b&gt;Filed:&lt;/b&gt; 2008-04-11 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-08-026222 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2008-05-30T09:55:32-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-08-018061</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2008-02-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999708018061/9999999997-08-018061-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>08030970</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-08-018061</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999708018061/9999999997-08-018061-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 08030970  &lt;b&gt;Filed:&lt;/b&gt; 2008-02-28 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-08-018061 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2008-04-08T10:52:58-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-07-043386</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2007-02-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999707043386/9999999997-07-043386-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>07004465</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-07-043386</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999707043386/9999999997-07-043386-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 07004465  &lt;b&gt;Filed:&lt;/b&gt; 2007-02-28 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-07-043386 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2007-10-05T16:03:53-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-07-013037</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2007-02-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999707013037/9999999997-07-013037-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>07004464</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-07-013037</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999707013037/9999999997-07-013037-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 07004464  &lt;b&gt;Filed:&lt;/b&gt; 2007-02-28 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-07-013037 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2007-03-20T08:08:07-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-06-013781</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2006-02-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999706013781/9999999997-06-013781-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>06002636</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-06-013781</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999706013781/9999999997-06-013781-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 06002636  &lt;b&gt;Filed:&lt;/b&gt; 2006-02-21 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-06-013781 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2006-04-11T18:47:58-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-06-006942</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2006-02-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999706006942/9999999997-06-006942-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>06002635</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-06-006942</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999706006942/9999999997-06-006942-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 06002635  &lt;b&gt;Filed:&lt;/b&gt; 2006-02-21 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-06-006942 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2006-02-28T16:39:13-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-05-009201</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2005-02-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999705009201/9999999997-05-009201-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>05036557</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-05-009201</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999705009201/9999999997-05-009201-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 05036557  &lt;b&gt;Filed:&lt;/b&gt; 2005-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-05-009201 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2005-03-10T11:36:05-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-05-008228</accession-nunber>
+        <act>34</act>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2005-02-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999705008228/9999999997-05-008228-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>05036898</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-05-008228</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999705008228/9999999997-05-008228-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 05036898  &lt;b&gt;Filed:&lt;/b&gt; 2005-02-25 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-05-008228 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2005-03-07T18:07:00-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-04-036556</accession-nunber>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2004-08-04</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999704036556/9999999997-04-036556-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>04013180</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-04-036556</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999704036556/9999999997-04-036556-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 04013180  &lt;b&gt;Filed:&lt;/b&gt; 2004-08-04 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-04-036556 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2004-09-08T16:17:48-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-04-036030</accession-nunber>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2004-08-04</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999704036030/9999999997-04-036030-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>04013179</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-04-036030</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999704036030/9999999997-04-036030-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 04013179  &lt;b&gt;Filed:&lt;/b&gt; 2004-08-04 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-04-036030 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2004-09-02T16:09:37-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FOCUSN" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-03-018823</accession-nunber>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2003-03-03</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999703018823/9999999997-03-018823-index.htm</filing-href>
+        <filing-type>FOCUSN</filing-type>
+        <film-number>03014340</film-number>
+        <form-name>Non-public annual audit reports filed by brokers or dealers</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-03-018823</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999703018823/9999999997-03-018823-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 03014340  &lt;b&gt;Filed:&lt;/b&gt; 2003-03-03 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-03-018823 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>FOCUSN [Paper] - Non-public annual audit reports filed by brokers or dealers</title>
+      <updated>2003-04-24T09:16:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-03-011821</accession-nunber>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2003-03-03</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999703011821/9999999997-03-011821-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>03014339</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-03-011821</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999703011821/9999999997-03-011821-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 03014339  &lt;b&gt;Filed:&lt;/b&gt; 2003-03-03 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-03-011821 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2003-03-20T17:39:23-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="X-17A-5" />
+      <content type="text/xml">
+        <accession-nunber>9999999997-02-016808</accession-nunber>
+        <file-number>008-46668</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=008-46668&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2002-03-05</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/914911/999999999702016808/9999999997-02-016808-index.htm</filing-href>
+        <filing-type>X-17A-5</filing-type>
+        <film-number>02018810</film-number>
+        <form-name>FOCUS Report</form-name>
+        <size>1 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=9999999997-02-016808</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/914911/999999999702016808/9999999997-02-016808-index.htm" rel="alternate" type="text/html" />
+      <summary type="html">&lt;b&gt;Film#:&lt;/b&gt; 02018810  &lt;b&gt;Filed:&lt;/b&gt; 2002-03-05 &lt;b&gt;AccNo:&lt;/b&gt; 9999999997-02-016808 &lt;b&gt;Size:&lt;/b&gt; 1 KB</summary>
+      <title>X-17A-5 [Paper] - FOCUS Report</title>
+      <updated>2002-03-05T00:00:00-05:00</updated>
+    </entry>
+    <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000914911</id>
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000914911&amp;owner=exclude&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000914911&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <title>SIA SECURITIES CORP.  (0000914911)</title>
+    <updated>2017-09-30T11:34:07-04:00</updated>
+  </feed>
